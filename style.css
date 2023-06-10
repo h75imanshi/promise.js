@@ -1,0 +1,28 @@
+body
+{
+    background: linear-gradient(to right , rgb(132, 218, 247),rgb(243, 116, 116),rgb(113, 113, 250),
+    rgb(248, 248, 103),rgb(130, 253, 130),rgb(250, 180, 191));
+    font-style: italic;
+    font-weight: bold;
+}
+h1
+{
+    font-style: italic;
+    font-weight: bold;
+    text-align: center;
+    font-size: 36px;
+    text-decoration: underline;
+
+}
+h5
+{
+    font-style: italic;
+    font-weight: bold;
+     font-size:20px;
+}
+h4
+{
+    font-style: italic;
+    font-weight: bold;
+     font-size:24px;
+}
